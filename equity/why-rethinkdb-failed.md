@@ -3,6 +3,10 @@ layout: post
 title:  "RethinkDB: why we failed"
 ---
 
+Fork of this:
+
+https://github.com/coffeemug/defstartup/blob/master/_drafts/why-rethinkdb-failed.md
+
 When we [announced][shutdown-announcement] that RethinkDB is shutting
 down, I promised to write a post-mortem. I took some time to process
 the experience, and I can now write about it clearly.
