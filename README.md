@@ -1,5 +1,3 @@
-These are **markdown** files from various repos I blew away and consolidated here in this repo...
+These random blog posts of mine written in **markdown**.
 
-This usually happens with legacy repos that are no longer on the front burner; but markdown files I do not want
-to delete forever yet...
-
+The subjects can vary widely; but it shows my depth and breadth of work over the past several years.
