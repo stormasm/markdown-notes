@@ -1,1 +1,5 @@
-# md-notes
+These are **markdown** files from various repos I blew away and consolidated here in this repo...
+
+This usually happens with legacy repos that are no longer on the front burner; but markdown files I do not want
+to delete forever yet...
+
